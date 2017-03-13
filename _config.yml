@@ -1,12 +1,12 @@
 # Created by Jekyll Writer
-title: 欢迎来到冬木觉
+title: 冬木觉的小站
 author: Bryan_lzh
-description: 冬木觉的小站
+description: 欢迎来到冬木觉
 permalink: '/:year/:month/:day/:title/'
 paginate: 6
 paginate_path: '/page/:num/'
-twitter_username: jekyllwriter
-github_username: jekyllwriter
+twitter_username: 
+github_username: BryanSer
 gems:
   - jekyll-paginate
 markdown: kramdown
