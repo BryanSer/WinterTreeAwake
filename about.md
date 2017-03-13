@@ -1,7 +1,6 @@
 ---
 layout: page
-title: About
+title: 关于
 permalink: /about/
 ---
-*关于
-**暂时没有什么好关于的
+#暂时没有什么好关于的
