@@ -4,10 +4,10 @@ author: Bryan_lzh
 description: 欢迎来到冬木觉
 permalink: '/:year/:month/:day/:title/'
 paginate: 6
-paginate_path: '/:num/'
+paginate_path: '/page/:num/'
 twitter_username: 
 github_username: BryanSer
 gems:
   - jekyll-paginate
 markdown: kramdown
-baseurl: /WinterTreeAwake
+baseurl: 
