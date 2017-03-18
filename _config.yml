@@ -4,7 +4,7 @@ author: Bryan_lzh
 description: 欢迎来到冬木觉
 permalink: '/:year/:month/:day/:title/'
 paginate: 6
-paginate_path: '/page/:num/'
+paginate_path: '/:num/'
 twitter_username: 
 github_username: BryanSer
 gems:
